@@ -40,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
     private ImageView imageView;
 
     private Uri filePath;
+    private Uri filePath1;
 
     private final int PICK_IMAGE_REQUEST = 71;
 
